@@ -1,0 +1,22 @@
+{
+  "wheel_id": 487,
+  "structure": "umbrella",
+  "slug": "retainingwallsperth-152",
+  "project": "retaining-wall-builders-perth-f634aa3e729e3843dccb3e5a770ace837",
+  "parent_t1_ref": "retainingwallsperth-006",
+  "node_role": "buffer",
+  "money_target": "retainingwallsperth.au",
+  "primary_kw": "retaining wall builders perth",
+  "intended_url": "https://aumedia.neocities.org/retaining-wall-builders-perth-f634aa3e729e3843dccb3e5a770ace837/",
+  "tier": "T2",
+  "writeback_nonce": "cacf50b257240045",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/retaining-wall-builders-perth-006/",
+      "anchor": "this guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
